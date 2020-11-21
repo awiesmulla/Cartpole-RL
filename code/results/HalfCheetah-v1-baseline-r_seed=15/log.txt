@@ -1,0 +1,28 @@
+2020-09-04 18:44:11,523:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 18:44:11,561:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 18:44:13,527:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-09-04 18:44:13,531:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-09-04 18:44:13,534:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-09-04 18:44:13,536:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-09-04 18:44:16,150:INFO: Making new env: HalfCheetah-v1
+2020-09-04 18:44:16,190:INFO: Starting new video recorder writing to C:\Users\Awies Mohammad Mulla\assignment3\code\results\HalfCheetah-v1-baseline-r_seed=15\openaigym.video.0.23448.video000000.mp4
+2020-09-04 18:44:40,636:INFO: Average reward: -781.70 +/- 0.00
+2020-09-04 18:44:40,932:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('C:\\Users\\Awies Mohammad Mulla\\assignment3\\code\\results\\HalfCheetah-v1-baseline-r_seed=15')
+2020-09-04 18:47:40,681:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 18:47:40,694:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 18:47:42,083:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-09-04 18:47:42,095:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-09-04 18:47:42,103:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-09-04 18:47:42,113:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-09-04 18:47:44,415:INFO: Making new env: HalfCheetah-v1
+2020-09-04 18:47:44,438:INFO: Starting new video recorder writing to C:\Users\Awies Mohammad Mulla\assignment3\code\results\HalfCheetah-v1-baseline-r_seed=15\openaigym.video.0.3524.video000000.mp4
+2020-09-04 18:48:09,258:INFO: Average reward: -794.00 +/- 0.00
+2020-09-04 18:48:09,588:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('C:\\Users\\Awies Mohammad Mulla\\assignment3\\code\\results\\HalfCheetah-v1-baseline-r_seed=15')

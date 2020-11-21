@@ -1,0 +1,221 @@
+2020-09-04 13:56:31,547:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 13:56:31,568:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 13:58:56,651:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 13:58:56,662:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 13:59:56,305:INFO: Making new env: InvertedPendulum-v1
+2020-09-04 14:06:00,851:INFO: Making new env: InvertedPendulum-v1
+2020-09-04 14:06:00,903:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 14:06:00,903:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 14:06:00,914:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 14:06:00,914:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 14:06:39,416:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 14:06:39,426:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 14:11:05,974:INFO: Making new env: InvertedPendulum-v1
+2020-09-04 14:30:43,573:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 14:30:43,594:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 14:43:58,350:INFO: Making new env: InvertedPendulum-v1
+2020-09-04 14:55:25,282:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 14:55:25,299:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 18:16:15,792:INFO: Making new env: InvertedPendulum-v1
+2020-09-04 18:20:05,087:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 18:20:05,130:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 18:20:06,415:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-09-04 18:20:06,418:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-09-04 18:20:06,422:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-09-04 18:20:06,425:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-09-04 18:20:08,161:INFO: Making new env: InvertedPendulum-v1
+2020-09-04 18:20:08,182:INFO: Starting new video recorder writing to C:\Users\Awies Mohammad Mulla\assignment3\code\results\InvertedPendulum-v1-baseline-r_seed=15\openaigym.video.0.19960.video000000.mp4
+2020-09-04 18:20:11,171:INFO: Average reward: 9.00 +/- 0.00
+2020-09-04 18:20:11,242:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('C:\\Users\\Awies Mohammad Mulla\\assignment3\\code\\results\\InvertedPendulum-v1-baseline-r_seed=15')
+2020-09-04 18:32:42,636:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 18:32:42,672:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 18:32:43,615:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-09-04 18:32:43,618:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-09-04 18:32:43,622:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-09-04 18:32:43,625:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-09-04 18:32:45,255:INFO: Making new env: InvertedPendulum-v1
+2020-09-04 18:32:45,274:INFO: Starting new video recorder writing to C:\Users\Awies Mohammad Mulla\assignment3\code\results\InvertedPendulum-v1-baseline-r_seed=15\openaigym.video.0.2916.video000000.mp4
+2020-09-04 18:32:47,086:INFO: Average reward: 5.00 +/- 0.00
+2020-09-04 18:32:47,145:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('C:\\Users\\Awies Mohammad Mulla\\assignment3\\code\\results\\InvertedPendulum-v1-baseline-r_seed=15')
+2020-09-04 18:36:40,406:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 18:36:40,424:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 18:36:41,466:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-09-04 18:36:41,471:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-09-04 18:36:41,475:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-09-04 18:36:41,479:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-09-04 18:36:43,971:INFO: Making new env: InvertedPendulum-v1
+2020-09-04 18:36:44,015:INFO: Starting new video recorder writing to C:\Users\Awies Mohammad Mulla\assignment3\code\results\InvertedPendulum-v1-baseline-r_seed=15\openaigym.video.0.17340.video000000.mp4
+2020-09-04 18:36:44,998:INFO: Average reward: 6.00 +/- 0.00
+2020-09-04 18:36:45,061:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('C:\\Users\\Awies Mohammad Mulla\\assignment3\\code\\results\\InvertedPendulum-v1-baseline-r_seed=15')
+2020-09-04 18:36:47,160:INFO: Average reward: 7.16 +/- 0.35
+2020-09-04 18:36:48,410:INFO: Average reward: 6.70 +/- 0.29
+2020-09-04 18:36:50,470:INFO: Average reward: 6.80 +/- 0.35
+2020-09-04 18:36:52,232:INFO: Average reward: 8.43 +/- 0.49
+2020-09-04 18:36:54,353:INFO: Average reward: 7.09 +/- 0.34
+2020-09-04 18:36:55,817:INFO: Average reward: 7.50 +/- 0.46
+2020-09-04 18:36:57,691:INFO: Average reward: 7.43 +/- 0.35
+2020-09-04 18:36:59,666:INFO: Average reward: 6.79 +/- 0.29
+2020-09-04 18:37:01,633:INFO: Average reward: 6.59 +/- 0.30
+2020-09-04 18:37:03,209:INFO: Average reward: 7.35 +/- 0.43
+2020-09-04 18:37:04,380:INFO: Average reward: 6.50 +/- 0.24
+2020-09-04 18:37:06,252:INFO: Average reward: 6.82 +/- 0.30
+2020-09-04 18:37:08,365:INFO: Average reward: 6.16 +/- 0.22
+2020-09-04 18:37:10,502:INFO: Average reward: 5.68 +/- 0.17
+2020-09-04 18:37:12,042:INFO: Average reward: 5.41 +/- 0.17
+2020-09-04 18:37:14,129:INFO: Average reward: 4.87 +/- 0.12
+2020-09-04 18:37:15,764:INFO: Average reward: 4.82 +/- 0.12
+2020-09-04 18:37:17,100:INFO: Average reward: 4.60 +/- 0.10
+2020-09-04 18:37:19,076:INFO: Average reward: 4.28 +/- 0.09
+2020-09-04 18:37:20,602:INFO: Average reward: 4.03 +/- 0.07
+2020-09-04 18:37:22,473:INFO: Average reward: 3.66 +/- 0.06
+2020-09-04 18:37:24,242:INFO: Average reward: 3.69 +/- 0.06
+2020-09-04 18:37:26,429:INFO: Average reward: 3.42 +/- 0.05
+2020-09-04 18:37:27,996:INFO: Average reward: 3.35 +/- 0.04
+2020-09-04 18:37:29,791:INFO: Average reward: 3.19 +/- 0.04
+2020-09-04 18:37:31,653:INFO: Average reward: 2.96 +/- 0.03
+2020-09-04 18:37:34,199:INFO: Average reward: 2.77 +/- 0.03
+2020-09-04 18:37:36,026:INFO: Average reward: 2.72 +/- 0.03
+2020-09-04 18:37:37,897:INFO: Average reward: 2.61 +/- 0.03
+2020-09-04 18:37:40,544:INFO: Average reward: 2.45 +/- 0.03
+2020-09-04 18:37:42,823:INFO: Average reward: 2.35 +/- 0.02
+2020-09-04 18:37:44,419:INFO: Average reward: 2.28 +/- 0.02
+2020-09-04 18:37:46,289:INFO: Average reward: 2.16 +/- 0.02
+2020-09-04 18:37:48,336:INFO: Average reward: 2.09 +/- 0.01
+2020-09-04 18:37:50,324:INFO: Average reward: 2.07 +/- 0.01
+2020-09-04 18:37:52,295:INFO: Average reward: 2.03 +/- 0.01
+2020-09-04 18:37:54,618:INFO: Average reward: 2.02 +/- 0.01
+2020-09-04 18:37:56,818:INFO: Average reward: 2.01 +/- 0.00
+2020-09-04 18:37:58,671:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:00,597:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:02,290:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:04,567:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:07,036:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:08,931:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:11,641:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:14,332:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:16,967:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:19,724:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:22,475:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:24,168:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:26,918:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:29,395:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:31,767:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:34,343:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:36,990:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:39,380:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:41,279:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:43,936:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:46,387:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:49,102:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:51,737:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:54,487:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:55,928:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:58,223:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:38:59,730:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:02,403:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:05,068:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:07,816:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:10,144:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:12,245:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:14,919:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:17,604:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:19,643:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:22,168:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:24,740:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:27,188:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:29,191:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:31,732:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:34,398:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:37,137:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:39,782:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:42,181:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:43,855:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:45,898:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:48,575:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:51,297:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:54,024:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:56,538:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:39:58,878:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:00,453:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:03,114:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:05,817:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:08,484:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:11,208:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:13,492:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:15,698:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:17,799:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:20,523:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:23,129:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:25,765:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:25,766:INFO: - Training done.
+2020-09-04 18:40:26,630:INFO: Making new env: InvertedPendulum-v1
+2020-09-04 18:40:26,664:INFO: Starting new video recorder writing to C:\Users\Awies Mohammad Mulla\assignment3\code\results\InvertedPendulum-v1-baseline-r_seed=15\openaigym.video.1.17340.video000000.mp4
+2020-09-04 18:40:27,529:INFO: Average reward: 2.00 +/- 0.00
+2020-09-04 18:40:27,569:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('C:\\Users\\Awies Mohammad Mulla\\assignment3\\code\\results\\InvertedPendulum-v1-baseline-r_seed=15')
+2020-09-04 19:08:44,417:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow\python\ops\linalg\linear_operator_diag.py:159: calling LinearOperator.__init__ (from tensorflow.python.ops.linalg.linear_operator) with graph_parents is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not pass `graph_parents`.  They will  no longer be used.
+2020-09-04 19:08:44,452:WARNING: From G:\Old Desktop\acads\robotics\anaconda\envs\RL\lib\site-packages\tensorflow_probability\python\bijectors\affine_linear_operator.py:116: LinearOperator.graph_parents (from tensorflow.python.ops.linalg.linear_operator) is deprecated and will be removed in a future version.
+Instructions for updating:
+Do not call `graph_parents`.
+2020-09-04 19:08:45,457:INFO: Summary name Avg Reward is illegal; using Avg_Reward instead.
+2020-09-04 19:08:45,465:INFO: Summary name Max Reward is illegal; using Max_Reward instead.
+2020-09-04 19:08:45,473:INFO: Summary name Std Reward is illegal; using Std_Reward instead.
+2020-09-04 19:08:45,482:INFO: Summary name Eval Reward is illegal; using Eval_Reward instead.
+2020-09-04 19:08:47,533:INFO: Making new env: InvertedPendulum-v1
+2020-09-04 19:08:47,544:INFO: Starting new video recorder writing to C:\Users\Awies Mohammad Mulla\assignment3\code\results\InvertedPendulum-v1-baseline-r_seed=15\openaigym.video.0.13660.video000000.mp4
+2020-09-04 19:08:48,502:INFO: Average reward: 16.00 +/- 0.00
+2020-09-04 19:08:48,584:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('C:\\Users\\Awies Mohammad Mulla\\assignment3\\code\\results\\InvertedPendulum-v1-baseline-r_seed=15')
+2020-09-04 19:08:50,064:INFO: Average reward: 12.95 +/- 0.57
+2020-09-04 19:08:51,641:INFO: Average reward: 8.21 +/- 0.17
+2020-09-04 19:08:53,642:INFO: Average reward: 5.84 +/- 0.05
+2020-09-04 19:08:55,504:INFO: Average reward: 4.92 +/- 0.02
+2020-09-04 19:08:57,804:INFO: Average reward: 4.00 +/- 0.00
+2020-09-04 19:08:59,962:INFO: Average reward: 4.00 +/- 0.00
+2020-09-04 19:09:02,292:INFO: Average reward: 3.44 +/- 0.03
+2020-09-04 19:09:03,797:INFO: Average reward: 3.00 +/- 0.00
+2020-09-04 19:09:05,853:INFO: Average reward: 3.00 +/- 0.00
+2020-09-04 19:09:08,243:INFO: Average reward: 3.00 +/- 0.00
+2020-09-04 19:09:10,598:INFO: Average reward: 3.00 +/- 0.00
+2020-09-04 19:09:12,912:INFO: Average reward: 3.00 +/- 0.00
+2020-09-04 19:09:15,350:INFO: Average reward: 3.00 +/- 0.00
